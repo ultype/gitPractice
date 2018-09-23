@@ -1,2 +1,3 @@
 hello
-issue2 newlines(此處與issue3 出現分支)
+newline for issue3 branch(修改衝突選擇issue3)
+
